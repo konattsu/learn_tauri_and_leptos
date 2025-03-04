@@ -1,5 +1,4 @@
 {
-  "emmet.includeLanguages": {
-    "rust": "html"
-  }
+    "editor.formatOnSave": true,
+    "cSpell.words": ["bindgen", "leptos", "serde", "tauri"]
 }

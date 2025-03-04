@@ -1,0 +1,17 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Format",
+            "type": "process",
+            "command": "leptosfmt",
+            "args": ["./src", "./src-tauri"],
+            "problemMatcher": [],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "detail": "Format rust (macro) code with leptosfmt"
+        }
+    ]
+}
