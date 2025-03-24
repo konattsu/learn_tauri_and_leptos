@@ -1,5 +1,5 @@
 a
 b
 c
-TODO: gpgはsshと違うみたい
 d
+NOTE: sshで署名した, key typeをSigning Keysにしてなくて手こずった
